@@ -59,33 +59,19 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-### 🎥 My Project Demos
+## 🎥 My Project Demos
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+### 🏃‍♂️ Subway Surfers Game Using Hand Gestures
 
-  <div style="flex: 1 1 300px; min-width: 300px; max-width: 500px;">
-    <h3>🏃‍♂️ Subway Surfers Game Using Hand Gestures</h3></br>
-    <a href="https://youtu.be/y8y2KbotnZo" target="_blank">
-      <img src="https://markdown-videos-api.jorgenkh.no/youtube/y8y2KbotnZo" alt="Subway Surfers Game Demo" style="width: 100%; height: auto;">
-    </a>
-  </div>
+[![Subway Surfers Game Demo](https://img.youtube.com/vi/y8y2KbotnZo/hqdefault.jpg)](https://youtu.be/y8y2KbotnZo)
 
-  <div style="flex: 1 1 300px; min-width: 300px; max-width: 500px;">
-    <h3>💰 Expense Tracker App</h3></br></br>
-    <a href="https://youtu.be/OhLNpsE8xlw" target="_blank">
-      <img src="https://markdown-videos-api.jorgenkh.no/youtube/OhLNpsE8xlw" alt="Expense Tracker Demo" style="width: 100%; height: auto;">
-    </a>
-  </div>
+### 💰 Expense Tracker App
 
-  <div style="flex: 1 1 300px; min-width: 300px; max-width: 500px;">
-    <h3>🥘 Recipe Notes App</h3></br></br>
-    <a href="https://youtu.be/PmLRaYeBCHU" target="_blank">
-      <img src="https://markdown-videos-api.jorgenkh.no/youtube/PmLRaYeBCHU" alt="Recipe Notes App Demo" style="width: 100%; height: auto;">
-    </a>
-  </div>
+[![Expense Tracker App](https://img.youtube.com/vi/OhLNpsE8xlw/hqdefault.jpg)](https://youtu.be/OhLNpsE8xlw)
 
-</div>
+### 🥘 Recipe Notes App
 
+[![Recipe Notes App](https://img.youtube.com/vi/PmLRaYeBCHU/hqdefault.jpg)](https://youtu.be/PmLRaYeBCHU)
 
 ### 🎓 My Certifications
 
