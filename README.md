@@ -101,7 +101,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
   <a href="https://www.linkedin.com/in/abhiramgatreddi/" target="_blank" style="margin: 0 10px;">
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="24px"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.kaggle.com/abhiramgatreddi" target="_blank" style="margin: 0 10px;">
     <img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="24px"/>
