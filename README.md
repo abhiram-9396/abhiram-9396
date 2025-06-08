@@ -73,6 +73,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 [![Recipe Notes App](https://img.youtube.com/vi/PmLRaYeBCHU/hqdefault.jpg)](https://youtu.be/PmLRaYeBCHU)
 
+### 🎮 Guess the Number App 🔢
+
+[![Recipe Notes App](https://img.youtube.com/vi/w1ei8HedS_w/hqdefault.jpg)](https://youtu.be/w1ei8HedS_w)
+
 ### 🎓 My Certifications
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
