@@ -18,7 +18,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhiram-9396?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related — happy to help!
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiramgatreddi/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1XeTRtnO9s8npd0UDpvcRl-qCVK_jZmHf/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1N5aclbYpncRiipuUqtiU_B_UK8-UbJt6/view?usp=sharing)
 - 🤖 &nbsp; Passionate about building scalable web and AI-powered applications.
 - 🚀 &nbsp; Enthusiastic about cloud technologies, DevOps practices, and automation.
 - 🧠 &nbsp; Continuously expanding my skills through certifications and real-world projects.
